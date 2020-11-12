@@ -33,7 +33,7 @@ make DESTDIR=/opt/YouboxRDP install
 这个install也可不指定安装目录
 
 # Run
-xfreerdp /u:15229349746 /p:349746 /w:1366 /h:768 /v:61.184.241.30:25788 /d:src /cert-ignore -sec-nla  
+xfreerdp /u:15229349746 /p:123456 /w:1366 /h:768 /v:61.184.241.30:25788 /d:src /cert-ignore -sec-nla  
 /u:账号  
 /p:密码  
 /v:远程地址  
